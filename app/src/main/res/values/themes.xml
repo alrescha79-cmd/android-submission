@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.HsrCharProfile" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/gray</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+
+    
+    <style name="Theme.HsrCharProfile" parent="Base.Theme.HsrCharProfile" />
+</resources>

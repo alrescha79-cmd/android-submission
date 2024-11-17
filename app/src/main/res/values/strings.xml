@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">Top 10 Premier League</string>
+
+    <string name="char_name">Name</string>
+    <string name="description">Description</string>
+    <string name="char_rarity">Matches</string>
+    <string name="char_path">Points</string>
+    <string name="char_faction">Stadium</string>
+    <string name="detail_char">Detail Club</string>
+
+    <string name="about">About Me</string>
+    <string name="my_name">Anggun Caksono</string>
+    <string name="my_email">Email: caksonoanggun@gmail.com</string>
+    <string name="my_github">GitHub: alrescha79-cmd</string>
+    <string name="my_linkedin">LinkedIn: Anggun Caksono</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+
+    <string-array name="data_char">
+        <item>Manchester United</item>
+        <item>Arsenal FC</item>
+        <item>Liverpool FC</item>
+        <item>Chelsea FC</item>
+        <item>Tottenham Hotspur</item>
+        <item>Manchester City</item>
+        <item>Everton FC</item>
+        <item>Newcastle United</item>
+        <item>Aston Villa</item>
+        <item>West Ham United</item>
+    </string-array>
+
+    <string-array name="data_path">
+        <item>Points: 2516</item>
+        <item>Points: 2333</item>
+        <item>Points: 2286</item>
+        <item>Points: 2264</item>
+        <item>Points: 1929</item>
+        <item>Points: 1832</item>
+        <item>Points: 1660</item>
+        <item>Points: 1559</item>
+        <item>Points: 1505</item>
+        <item>Points: 1362</item>
+    </string-array>
+
+    <string-array name="data_rarity">
+        <item>Matches: 1239</item>
+        <item>Matches: 1239</item>
+        <item>Matches: 1239</item>
+        <item>Matches: 1239</item>
+        <item>Matches: 1239</item>
+        <item>Matches: 1049</item>
+        <item>Matches: 1239</item>
+        <item>Matches: 1121</item>
+        <item>Matches: 1125</item>
+        <item>Matches: 1083</item>
+    </string-array>
+
+    <string-array name="data_faction">
+        <item>Stadium: Old Trafford</item>
+        <item>Stadium: Emirates Stadium</item>
+        <item>Stadium: Anfield</item>
+        <item>Stadium: Stamford Bridge</item>
+        <item>Stadium: Tottenham Hotspur Stadium</item>
+        <item>Stadium: Etihad Stadium</item>
+        <item>Stadium: Goodison Park</item>
+        <item>Stadium: St. James\' Park</item>
+        <item>Stadium: Villa Park</item>
+        <item>Stadium: London Stadium</item>
+    </string-array>
+
+    <string-array name="data_char_description">
+        <item>Lone voyagers in the cosmos are driven by two desires — to tread in the trails of the past and to forge their own way. But under THEIR scrutiny… most end up adhering to the former.</item>
+
+        <item>I am nobody\'s shadow.</item>
+
+        <item>The Merlin\'s Claw is what is written in the books, and The Great General is what people call me. The former sounds too formal, the latter too exaggerated. Neither suits me. I prefer my own title, the Lacking General — lacking in worries, regrets, and rivals.</item>
+
+        <item>Fyreflies are such magical creatures, aren\'t they? They may throw themselves at a flame or suddenly grow old, but every night before that, they will shine brighter than the stars.</item>
+
+        <item>I can use this banner to dispel demons… but it also comes in handy when signaling my surrender…</item>
+
+        <item>Whoever wishes to learn my swordplay, I will teach them.</item>
+
+        <item>There\'s a saying — the more demanding the diner, the stronger the skills of the chef… but no matter what others say, I\'ll always be demanding more from myself</item>
+
+        <item>Without accelerating or postponing the arrival of death, life will always wither.</item>
+
+        <item>I\'m not exactly a person loaded with cool skills, and dreaming big is not really my thing. But, ya know, my latest thing is… getting myself into the Genius Society! Ha, I am so ready to give it a go. Reckon anyone will buy it?</item>
+
+        <item>Swords have a temper. Sometimes, you have to touch them to calm them down — put the hilt of the sword in your hand, and it\'ll tell you what\'s wrong!</item>
+    </string-array>
+
+    <string-array name="data_detail_char">
+    <item>Manchester United adalah raksasa sepak bola Inggris yang memiliki sejarah panjang dan penuh prestasi. Didirikan pada tahun 1878, klub berjuluk "Setan Merah" ini telah mengukir namanya sebagai salah satu klub paling sukses di dunia. Bermarkas di stadion ikonik Old Trafford, Manchester United telah memenangkan berbagai gelar bergengsi, termasuk gelar Liga Inggris terbanyak sepanjang masa. Basis penggemar yang sangat besar di seluruh dunia menjadikan Manchester United sebagai salah satu merek olahraga paling kuat. Filosofi klub yang menekankan pada pengembangan pemain muda dan permainan menyerang yang menarik telah membuat klub ini terus menjadi daya tarik bagi pecinta sepak bola. Dengan sejarah yang kaya, pemain-pemain legendaris, dan prestasi gemilang, Manchester United telah menjadi simbol sepak bola Inggris dan inspirasi bagi banyak klub di seluruh dunia.</item>
+
+    <item>Arsenal adalah salah satu klub sepak bola tertua dan paling ikonik di Inggris. Didirikan pada tahun 1886, klub berjuluk "The Gunners" ini telah menjadi bagian integral dari sejarah sepak bola Inggris. Dengan markas di Stadion Emirates, Arsenal telah meraih berbagai gelar juara, termasuk beberapa kali juara Liga Inggris, Piala FA, dan Piala Liga. Klub ini dikenal dengan gaya permainan menyerang yang indah dan basis penggemar yang sangat loyal. Persaingan sengit dengan Tottenham Hotspur semakin menambah warna dalam perjalanan sejarah Arsenal. Sebagai salah satu pendiri Football League, Arsenal telah menorehkan prestasi yang luar biasa dan terus menjadi salah satu klub sepak bola paling populer di dunia.</item>
+
+    <item>Liverpool adalah salah satu klub sepak bola paling sukses di Inggris. Didirikan pada tahun 1892, klub berjuluk "The Reds" ini telah meraih berbagai gelar juara, termasuk beberapa kali juara Liga Inggris, Liga Champions, dan Piala FA. Bermarkas di Stadion Anfield, Liverpool dikenal dengan basis penggemar yang sangat besar dan loyal. Klub ini juga terkenal dengan filosofi permainan menyerang yang atraktif dan gaya hidup yang unik. Persaingan sengit dengan Everton dan Manchester United semakin menambah warna dalam sejarah Liverpool. Dengan sejarah yang kaya, pemain-pemain legendaris, dan prestasi gemilang, Liverpool telah menjadi salah satu klub paling populer di dunia dan simbol sepak bola Inggris.</item>
+
+    <item>Chelsea adalah salah satu klub sepak bola paling sukses di Inggris. Didirikan pada tahun 1905, klub berjuluk "The Blues" ini telah meraih berbagai gelar juara, termasuk beberapa kali juara Liga Inggris, Liga Champions, dan Piala FA. Bermarkas di Stadion Stamford Bridge, Chelsea dikenal dengan basis penggemar yang sangat besar dan loyal. Klub ini juga terkenal dengan filosofi permainan menyerang yang atraktif dan gaya hidup yang unik. Persaingan sengit dengan Arsenal dan Tottenham Hotspur semakin menambah warna dalam sejarah Chelsea. Dengan sejarah yang kaya, pemain-pemain legendaris, dan prestasi gemilang, Chelsea telah menjadi salah satu klub paling populer di dunia dan simbol sepak bola Inggris.</item>
+
+    <item>Tottenham Hotspur adalah salah satu klub sepak bola paling sukses di Inggris. Didirikan pada tahun 1882, klub berjuluk "Spurs" ini telah meraih berbagai gelar juara, termasuk beberapa kali juara Liga Inggris, Piala FA, dan Piala Liga. Bermarkas di Stadion Tottenham Hotspur, Tottenham dikenal dengan basis penggemar yang sangat besar dan loyal. Klub ini juga terkenal dengan filosofi permainan menyerang yang atraktif dan gaya hidup yang unik. Persaingan sengit dengan Arsenal semakin menambah warna dalam sejarah Tottenham Hotspur. Dengan sejarah yang kaya, pemain-pemain legendaris, dan prestasi gemilang, Tottenham Hotspur telah menjadi salah satu klub paling populer di dunia dan simbol sepak bola Inggris.</item>
+
+    <item>Manchester City adalah salah satu klub sepak bola paling sukses di Inggris. Didirikan pada tahun 1880, klub berjuluk "The Citizens" ini telah meraih berbagai gelar juara, termasuk beberapa kali juara Liga Inggris, Liga Champions, dan Piala FA. Bermarkas di Stadion Etihad, Manchester City dikenal dengan basis penggemar yang sangat besar dan loyal. Klub ini juga terkenal dengan filosofi permainan menyerang yang atraktif dan gaya hidup yang unik. Persaingan sengit dengan Manchester United semakin menambah warna dalam sejarah Manchester City. Dengan sejarah yang kaya, pemain-pemain legendaris, dan prestasi gemilang, Manchester City telah menjadi salah satu klub paling populer di dunia dan simbol sepak bola Inggris.</item>
+
+    <item>Everton adalah salah satu klub sepak bola tertua dan paling ikonik di Inggris. Didirikan pada tahun 1878, klub berjuluk "The Toffees" ini telah menjadi bagian integral dari sejarah sepak bola Inggris. Dengan markas di Stadion Goodison Park, Everton telah meraih berbagai gelar juara, termasuk beberapa kali juara Liga Inggris, Piala FA, dan Piala Liga. Klub ini dikenal dengan gaya permainan menyerang yang indah dan basis penggemar yang sangat loyal. Persaingan sengit dengan Liverpool semakin menambah warna dalam perjalanan sejarah Everton. Sebagai salah satu pendiri Football League, Everton telah menorehkan prestasi yang luar biasa dan terus menjadi salah satu klub sepak bola paling populer di dunia.</item>
+
+    <item>Newcastle United adalah salah satu klub sepak bola tertua dan paling ikonik di Inggris. Didirikan pada tahun 1892, klub berjuluk "The Magpies" ini telah menjadi bagian integral dari sejarah sepak bola Inggris. Dengan markas di St. James\' Park, Newcastle United telah meraih berbagai gelar juara, termasuk beberapa kali juara Liga Inggris, Piala FA, dan Piala Liga. Klub ini dikenal dengan gaya permainan menyerang yang indah dan basis penggemar yang sangat loyal. Persaingan sengit dengan Sunderland semakin menambah warna dalam perjalanan sejarah Newcastle United. Sebagai salah satu pendiri Football League, Newcastle United telah menorehkan prestasi yang luar biasa dan terus menjadi salah satu klub sepak bola paling populer di dunia.</item>
+
+    <item>Aston Villa adalah salah satu klub sepak bola tertua dan paling ikonik di Inggris. Didirikan pada tahun 1874, klub berjuluk "The Villans" ini telah menjadi bagian integral dari sejarah sepak bola Inggris. Dengan markas di Villa Park, Aston Villa telah meraih berbagai gelar juara, termasuk beberapa kali juara Liga Inggris, Piala FA, dan Piala Liga. Klub ini dikenal dengan gaya permainan menyerang yang indah dan basis penggemar yang sangat loyal. Persaingan sengit dengan Birmingham City semakin menambah warna dalam perjalanan sejarah Aston Villa. Sebagai salah satu pendiri Football League, Aston Villa telah menorehkan prestasi yang luar biasa dan terus menjadi salah satu klub sepak bola paling populer di dunia.</item>
+
+    <item>West Ham United adalah salah satu klub sepak bola tertua dan paling ikonik di Inggris. Didirikan pada tahun 1895, klub berjuluk "The Hammers" ini telah menjadi bagian integral dari sejarah sepak bola Inggris. Dengan markas di London Stadium, West Ham United telah meraih berbagai gelar juara, termasuk beberapa kali juara Liga Inggris, Piala FA, dan Piala Liga. Klub ini dikenal dengan gaya permainan menyerang yang indah dan basis penggemar yang sangat loyal. Persaingan sengit dengan Millwall semakin menambah warna dalam perjalanan sejarah West Ham United. Sebagai salah satu pendiri Football League, West Ham United telah menorehkan prestasi yang luar biasa dan terus menjadi salah satu klub sepak bola paling populer di dunia.</item>
+</string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/mu</item>
+        <item>@drawable/arsenal</item>
+        <item>@drawable/liverpool</item>
+        <item>@drawable/chelsea</item>
+        <item>@drawable/hotspur</item>
+        <item>@drawable/city</item>
+        <item>@drawable/everton</item>
+        <item>@drawable/nu</item>
+        <item>@drawable/villa</item>
+        <item>@drawable/westham</item>
+
+    </integer-array>
+
+
+</resources>
